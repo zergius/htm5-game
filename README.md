@@ -1,3 +1,3 @@
 # html5-game
 
-Just a test of gme made with javascript.
+Just a test of game made with javascript.
