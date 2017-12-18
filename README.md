@@ -1,1 +1,3 @@
-# htm5-game
+# html5-game
+
+Just a test of gme made with javascript.

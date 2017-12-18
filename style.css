@@ -1,0 +1,15 @@
+* {
+	margin:0;
+	padding:0;
+	outline:none;
+}
+html {
+	font-size:14px;
+	font-family:Verdana, Tahoma, sans-serif;
+	color:#151515;
+	background:#fafafa;
+}
+#game {
+	border:1px solid #999;
+	background:#111;
+}
